@@ -25,12 +25,12 @@ It enables real-time control of servo motors using PWM signals and allows remote
 
 ##  Project Structure
 src/
- ├── pwm_controller.v
- ├── uart_module.v
- └── top_module.v
+ ├── servo_pwm.v
+ ├── uart_rx.v
+ └── top.v
 
 constraints/
- └── design.xdc
+ └── robotic.xdc
 
 python-file/
  └── gui-python.py
