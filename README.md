@@ -32,8 +32,8 @@ src/
 constraints/
  └── design.xdc
 
-gui/
- └── control_gui.py
+python-file/
+ └── gui-python.py
 
 ---
 
